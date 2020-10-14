@@ -1,0 +1,11 @@
+Pasta
+
+1: pasta_type (string)
+2: sauce_type (string)
+3: vegetarian_option (boolean)
+4: allergen_alert (boolean, string)
+
+1: rotini (selects rotini as pasta_type)
+2: marinara_sauce (selects marinara_sauce as sauce_type)
+3: vegetarian (switches vegetarian_option boolean to true)
+4: cheese_allergy (switches allergen_alert boolean to true, then as a comment the item that is an allergy.)
