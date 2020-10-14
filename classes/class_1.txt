@@ -1,0 +1,11 @@
+Pizza (class)
+
+1: Crust (string)
+2: Toppings (string)
+3: time_due (datetime)
+4: marinara_sauce (boolean)
+
+1: well_done (changes cook time_due)
+2: use_alfredo (changes marinara_sauce to false)
+3: handtossed_dough (determines crust type (string))
+4: pepperoni_add (adds an item to the toppings string)
