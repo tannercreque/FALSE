@@ -1,0 +1,11 @@
+Handtossed Supreme Pizza
+
+1: Crust (string) = handtossed_dough
+2: Toppings (string) = ["pepperoni", "it_saausage", "green_peppers", "mushrooms", "red_onion"]
+3: time_due (datetime) = call_in_order = 15
+4: marinara_sauce (boolean) = true
+
+1: Customer inputs they want handtossed dough
+2: customer asks for a supreme pizza, which has those Toppings
+3: Customer called in an order for carryout, which is generally 15 minutes based on store volume
+4: Pizza comes with marinara_sauce by default, therefore this boolean defaults to true unless otherwise specified.
